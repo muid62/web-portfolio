@@ -14,7 +14,9 @@ h1{
 .headline-highliter{
      color: chocolate;
 }
-
+.orange-highliter{
+    color: orange;
+}
 
 .buttonhireme{
     color: black;
@@ -56,4 +58,20 @@ section{
     border-radius: 10px;
     font-weight: 700;
     color: cornsilk;
+}
+#experience-title{
+    margin-top: 100px;
+}
+.experience-box{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    padding-left: 3%;
+    height: 80%;
+}
+.experiance-area{
+   
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+  
 }
