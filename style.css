@@ -5,12 +5,11 @@
         margin: 0px;
     }
     h1{
-        
-    
-        font-size: 40px;
-
+             font-size: 40px;
     }
-
+    h2{
+        font-size: 30px;
+    }
     .headline-highliter{
         color: chocolate;
     }
@@ -49,6 +48,7 @@
     }
     section{
         height: 500px;
+        padding-bottom: 150px;
     }
 
     .link-button{
@@ -59,9 +59,7 @@
         font-weight: 700;
         color: cornsilk;
     }
-    #experience-title{
-        margin-top: 100px;
-    }
+   
     .experience-box{
         box-shadow: 10px 10px 40px gray;
         border-radius: 5px;
